@@ -20,8 +20,10 @@ All code are in progress, use as your risk.
 ## Installation
 
 - Clone the repo
+- Enter into the directory and install npm modules `npm install`
 - Setup config-template.json with your information (username and password of router and telegram bot token (you need to know how telegram bot works :D ))
-- Start the bot with `node ./app.js`
+- Change permission of start.sh `chmod +x start.sh`
+- Start the bot with `./start.sh`
 - Enjoy :D
 
 
