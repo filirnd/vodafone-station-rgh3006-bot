@@ -21,7 +21,7 @@ All code are in progress, use as your risk.
 
 - Clone the repo
 - Setup config-template.json with your information (username and password of router and telegram bot token (you need to know how telegram bot works :D ))
-- Start the bot with ´node ./app.js´
+- Start the bot with `node ./app.js`
 - Enjoy :D
 
 
