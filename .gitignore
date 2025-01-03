@@ -1,0 +1,47 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Dependency directories
+node_modules/
+jspm_packages/
+
+# Environment variables
+.env
+.env.test
+.env.production
+config.json
+main.js
+
+# Build and production directories
+build/
+dist/
+
+# Cache directories
+.cache/
+.tmp/
+
+# Test coverage
+coverage/
+
+# TypeScript
+*.tsbuildinfo
+
+# Debug files
+*.tgz
+.vscode/
+.idea/
+*.swp
+.DS_Store
+
+# Optional npm files
+package-lock.json
+yarn.lock
+pnpm-lock.yaml
+
+# System files
+Thumbs.db
