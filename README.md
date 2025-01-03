@@ -1,6 +1,6 @@
 ## VODAFONE STATION TELEGRAM BOT
 
-This is a simple telegram bot for automatation a vodafone station commands.
+This is a simple telegram bot for automatation a vodafone station (rgh3006 version) commands.
 
 Working commands:
 /info => info about the commands 
