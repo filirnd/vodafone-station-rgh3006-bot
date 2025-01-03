@@ -3,10 +3,15 @@
 This is a simple telegram bot for automatation a vodafone station (rgh3006 version) commands.
 
 Working commands:
-/info => info about the commands 
-/routerInfo => some router info *in progress*
-/fiberRestrt => restart fiber connection
-/routerRestart => restart router *in progress*
+
+* /info => info about the commands 
+
+* /routerInfo => some router info *in progress*
+
+* /fiberRestrt => restart fiber connection
+
+* /routerRestart => restart router *in progress*
+
 
 All code are in progress, use as your risk.
 
